@@ -20,6 +20,9 @@
   "homepage": "https://github.com/AaronCrandall/personal-budget#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0",
+    "validator": "^13.12.0"
   }
 }
